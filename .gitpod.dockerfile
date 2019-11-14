@@ -1,1 +1,2 @@
-FROM dorowu/ubuntu-desktop-lxde-vnc
+FROM gotget/novnc
+
