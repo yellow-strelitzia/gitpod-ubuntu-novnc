@@ -1,2 +1,2 @@
-FROM gotget/novnc
+FROM accetto/ubuntu-vnc-xfce-firefox-plus
 
